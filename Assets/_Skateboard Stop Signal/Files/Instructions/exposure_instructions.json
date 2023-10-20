@@ -1,0 +1,28 @@
+{
+	"Deutsch": [
+		"Wilkommen!\n \n \nWir sind nun im Viertel vor der Pizzeria und es ist an der Zeit Pizza auszuliefern. Zuvor machen wir dich aber mit dem Navigationsgerät vertraut.",
+		"Konzentriere dich während der Fahrt völlig auf die Navigationsanweisungen.\n \n \nDein E-Skateboard kümmert sich ums Gas geben und Bremsen. Du musst nur auf das Navi achten.",
+		"Mit einem Kreissymbol gibt das Navi an, dass die nächste Berechnung fast abgeschlossen ist. Danach erscheint ein Pfeil nach links oder rechts, welcher angibt, in welche Richtung du fahren sollst.\n \nKlicke auf \"Test\" um dir dies einmal anzeigen zu lassen.",
+		"Zeigt der Pfeil nach links, musst du den linken Zeigefingertrigger drücken.\nZeigt der Pfeil nach rechts, musst du den rechten Zeigefingertrigger drücken.\n \nDrücke immer nur genau ein Mal. Das Navi kann den Pfeil nur für kurze Zeit anzeigen, reagiere also so schnell du kannst.\nKlicke auf \"Start\" um dies ein paar Mal auszuprobieren.",
+		"Das Navigationsgerät kann sich in der Wegberechnung irren.\nDann spielt es kurz nach Anzeigen der Richtung einen Ton ab.\nWenn du den Ton hörst darfst du nicht auf die Richtungsanweisung reagieren!\nDrücke auf \"Ton abspielen\" um dir den Ton anzuhören.\nWenn dir der Ton zu laut oder zu leise ist kannst du mit dem Schieber die Lautstärke ändern. Stell diese so ein, dass du den Ton gut hörst.",
+		"Nun probieren wir Beides zusammen einmal aus.\n \nReagiere nicht wenn auf eine Richtungsanweisung der Ton folgt.\n \nDrücke \"Start\", um einen Probedurchlauf zu machen.",
+		"Das Navi unterstützt gleichzeitig die Wärmeerhaltung der Pizza. Fehler führen dazu, dass die Pizza abkühlt. Lasse die Pizza also nicht kalt werden!\nAußerdem wird deine verbleibende Zeit auf einem Timer angezeigt.",
+		"Eine letze Sache noch: Die Stadt ist weltweit bekannt für ihre berühmte Pizza, und die Viertel sind von verschiedenen Pizzerien hart umkämpft.\n \nUm Probleme zu vermeiden sollten wir uns also in unserem Viertel bleiben. Wenn du an den Rand unseres Viertels kommst teleportiert dich das Navi daher automatisch zurück in die Mitte unseres Viertels.",
+		"Zusammengefasst:\n1. Reagiere so schnell du kannst auf die Richtungsanweisung des Navi.\n \n2. Versuche nicht den Ton abzuwarten.\n \n3. Reagiere nicht, wenn du den Ton hörst.",
+		"Drücke nun auf \"Start\" um die Pizza auszuliefern.\n \n \n \n \nViel Erfolg!",
+		""		
+	],
+	"English": [
+		"Welcome to the city quarter you just created!\n \n \nNow it is time to deliver the pizza. But let's make you familiar with the navigation system before.",
+		"Concentrate entirely on the navigation instructions during the ride.\n \n \nYou e-skateboard is taking care of accelerating and slowing down. Only pay attentation the navigation system.",
+		"When the navi shows a circle the calculation is almost finished. After that an arrow to the left or the right appears, which indicates which way you are to ride.\n \nPress \"Test\" to see how that looks like exemplary.",
+		"If the arrow points to the left you have to press the left index trigger.\nIf the arrow points to the right you have to press the right index trigger.\n \nPress only once. The navi can how the arrow only for a short duration so react as fast as you can.\nPress \"Test\" to try this as few times.",
+		"The navi can make a mistake in the calculation.\nIn this case it plays a sound shortly after displaying the arrow.\nYou must not react to the arrow if you hear the sound!\n \nPress \"Play sound\" to listen to the sound.",
+		"Let's try both together.\n \nDon't react if the sound is played after the arrow.\n \nPress \"Start\" to run a trial.",
+		"The navi also supports the heating of the pizza. Mistakes lead to the pizza getting colder. If you react correctly it stays heated. So don't let the pizza get cold!\nAlso your remaining time is displayed on a timer.",
+		"One last thing: this city is famous for its pizza and the city quarters are contested by many different pizzerias.\n \nTo avoid problems we should stay in our quarter. When you get close to the edge of our quarter the navi system will teleport you back into the middle of our quarter as a precaution.",
+		"Summarised:\n1. React as fast as possible to the directions of the navi.\n \n2. Don't try to await the sound.\n \n3. Don't react when you hear the sound.",
+		"Press \"Start\" to deliver the pizza.\n \n \n \n \nGood luck!",
+		""
+	]
+}

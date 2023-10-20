@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Statistic">
+    <option name="excludedDirectories">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Oculus" />
+        <option value="$PROJECT_DIR$/Assets/AgoraEngine" />
+        <option value="$PROJECT_DIR$/Assets/Photon" />
+        <option value="$PROJECT_DIR$/Assets/VrTunnellingPro" />
+      </list>
+    </option>
+  </component>
+</project>

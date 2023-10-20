@@ -1,0 +1,81 @@
+{
+	"title": "Player Experience of Need satisfaction",
+	"instructions": "Reflect on your play experience and rate your agreement with the following statements.",
+	"code": "pens",
+	"type": "likert",
+	"typeValue": 7,
+	"likertLabels0": [
+		"Strongly\ndisagree",
+		"Moderately\ndisagree",
+		"Slightly\ndisagree",
+		"Neutral",
+		"Slightly\nagree",
+		"Moderately\nagree",
+		"Strongly\nagree"
+	],
+	"likertLabels1": [
+		"Strongly\ndisagree",
+		"Moderately\ndisagree",
+		"Slightly\ndisagree",
+		"Neutral",
+		"Slightly\nagree",
+		"Moderately\nagree",
+		"Strongly\nagree"
+	],
+	"questions": [
+		{
+			"id": "competence",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please rate your agreement with the following statement.",
+			"note": "",
+			"statement": "I feel competent at this game.",
+			"reverse": "false"
+		},
+		{
+			"id": "competence",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please rate your agreement with the following statement.",
+			"note": "",
+			"statement": "I feel very capable and effective when playing.",
+			"reverse": "false"
+		},
+		{
+			"id": "competence",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please rate your agreement with the following statement.",
+			"note": "",
+			"statement": "My ability to play the game is well matched with the game's challenges.",
+			"reverse": "false"
+		},
+		{
+			"id": "autonomy",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please rate your agreement with the following statement.",
+			"note": "",
+			"statement": "The game provides me with interesting options and choices.",
+			"reverse": "false"
+		},
+		{
+			"id": "autonomy",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please rate your agreement with the following statement.",
+			"note": "",
+			"statement": "The game let's you do interesting things.",
+			"reverse": "false"
+		},
+		{
+			"id": "autonomy",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please rate your agreement with the following statement.",
+			"note": "",
+			"statement": "I experienced a lot of freedom in the game.",
+			"reverse": "false"
+		}
+	]
+}

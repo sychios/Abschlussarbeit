@@ -1,0 +1,20 @@
+{
+	"Deutsch": [
+		"Herzlich Wilkommen in der Pizzeria \"Virtuoso Radicale\"! \n \nWir freuen uns, dass du uns heute hilfst, Pizza auszuliefern. Klicke auf \"Weiter\", um mit der Studie zu beginnen.",
+		"Benutze die Laserpointer deiner Hand-Controller um dich in der Pizzeria zu bewegen und zu interagieren. \nMit dem Drehstick des linken Controllers kannst du dich drehen.\n",
+		"Um dich im Raum zu bewegen kannst du den Teleporter deines linken Controllers benutzen. Wenn du mit dem Controller in Richtung Boden zeigst, erscheint ein blaues Symbol. Drücke dann den Button am Zeigefinger, um dich an die Stelle des Symbols zu teleportieren.\n",
+		"Du kannst die Zuordnung der Pointer zu den Händen jetzt tauschen indem du auf \"Wechseln\" klickst. Probiere beide Varianten aus und entscheide dich für eine, da du dies später nicht mehr wechseln kannst.\nBeachte dabei, dass du den Pointer zur Interaktion höchstwahrscheinlich häufiger nutzen wirst als den Pointer zur Bewegung.\n \n \n",
+		"Zeit für eine kurze Zwischenfrage: \n \nWie stressig fandest du die Aufgabe, dir eine Pointerzuordnung auszusuchen?\n \n \n \n \n \n",
+		"Während deines Aufenthalts in der Pizzeria zeigt dir ein gelber Pfeil, den du gerade über diesem Text sehen kannst, an, wo es für dich weiter geht.",
+		"Damit du die Pizza ausliefern kannst, musst du zunächst das Navigationsgerät wieder instandsetzen.\n \nDieses hat leider den Aufbau der Stadt gelöscht. Begib dich zum PC im Raum hinter der Küche, um das Navi zu reparieren."
+	],
+	"English": [
+		"Welcome to the pizzeria \"Virtuoso Radicale\"! \n \nWe are happy that you are helping us today to deliver pizza. Press \"Continue\" to begin with the study.",
+		"Use the laser-pointer of your hand-controllers to move and interact in the pizzeria. \nWith the thumbstick of your left controller you can turn around.\n",
+		"Use the pointer of your left controller to move around. If you point the controller to the ground a blue symbol appears. Then press the button of your left index finger, to teleport to the spot of the symbol.\n",
+		"You can change the assignment of the pointers to your hands by pressing \"Switch\". Try both variants and chose one, as it can not be changed later on.\nTake into consideration that you will most likely use the pointer to interact more often than the pointer to move around.\n \n \n",
+		"Time for a short question: \n \nHow stressful did you find the task of choosing the pointers assignment?\n \n \n \n \n \n",
+		"While you are in the pizzeria a yellow arrow, which you can see above this text right now, will show you where to continue.",
+		"To deliver the pizza you first have to repair the navigation device.\n \nUnfortunately it deleted the layout of the town. Go to the PC in the room behind the kitchen to repair the navigation system."
+	]
+}

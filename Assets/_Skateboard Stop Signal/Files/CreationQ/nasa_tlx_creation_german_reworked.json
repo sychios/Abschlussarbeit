@@ -1,0 +1,78 @@
+{
+	"title": "NASA TLX",
+	"instructions": "Geben Sie jetzt für jede der folgenden Dimensionen an, wie hoch die Beanspruchung war. Markieren Sie dazu bitten auf den folgenden Skalen, in welchem Maße Sie sich in der Dimension von der Aufgabe beansprucht oder gefordert gesehen haben.",
+	"code": "nasa_tlx",
+	"type": "likert",
+	"typeValue": 21,
+	"likertLabels0": [
+			"Gering",
+			"Hoch"
+	],
+	"likertLabels1":
+	[
+		"Gut",
+		"Schlecht"
+	],	
+	"questions": [
+		{
+			"id": "mental",
+			"segment": "mental_demand",
+			"questiontype": "likert_21",
+			"label_id": "0",
+			"instructions": "Bitte beurteilen Sie folgende Frage.",
+			"note": "Hinweis: Diese Frage bezieht sich auf die Aufgabe, den Stadtteil zu kreieren.",
+			"statement": "Wie viel geistige Anforderung war bei der Informationsaufnahme und -verarbeitung erforderlich (z.B. Denken, Entscheiden, Rechnen, Erinnern, Hinsehen, Suchen ...)? War die Aufgabe leicht oder anspruchsvoll, einfach oder komplex, erfordert sie hohe Genauigkeit oder ist sie fehlertolerant?",
+			"reverse": "false"
+		},
+		{
+			"id": "physical",
+			"segment": "physical_demand",
+			"questiontype": "likert_21",
+			"label_id": "0",
+			"instructions": "Bitte beurteilen Sie folgende Frage.",
+			"note": "Hinweis: Diese Frage bezieht sich auf die Aufgabe, den Stadtteil zu kreieren.",
+			"statement": "Wie viel körperliche Aktivität war erforderlich (z.B. ziehen, drücken, drehen, steuern, aktivieren ...)? War die Aufgabe leicht oder schwer, einfach oder anstrengend, erholsam oder mühselig?",
+			"reverse": "false"
+		},
+		{
+			"id": "temporal",
+			"segment": "temporal_demand",
+			"questiontype": "likert_21",
+			"label_id": "0",
+			"instructions": "Bitte beurteilen Sie folgende Frage.",
+			"note": "Hinweis: Diese Frage bezieht sich auf die Aufgabe, den Stadtteil zu kreieren.",
+			"statement": "Wie viel Zeitdruck empfanden Sie hinsichtlich der Häufigkeit oder dem Takt mit dem die Aufgaben oder Aufgabenelemente auftraten? War die Aufgabe langsam und geruhsam oder schnell und hektisch?",
+			"reverse": "false"
+		},
+		{
+			"id": "performance",
+			"segment": "performance",
+			"questiontype": "likert_21",
+			"label_id": "1",
+			"instructions": "Bitte beurteilen Sie folgende Frage.",
+			"note": "",
+			"statement": "Wie erfolgreich haben Sie Ihrer Meinung nach die vom Versuchsleiter (oder Ihnen selbst) gesetzten Ziele erreicht? Wie zufrieden waren Sie mit Ihrer Leistung bei der Verfolgung dieser Ziele?",
+			"reverse": "true"
+		},
+		{
+			"id": "effort",
+			"segment": "effort",
+			"questiontype": "likert_21",
+			"label_id": "0",
+			"instructions": "Bitte beurteilen Sie folgende Frage.",
+			"note": "",
+			"statement": "Wie hart mussten Sie arbeiten, um Ihren Grad an Aufgabenerfüllung zu erreichen?",
+			"reverse": "false"
+		},
+		{
+			"id": "frustration",
+			"segment": "frustration",
+			"questiontype": "likert_21",
+			"label_id": "0",
+			"instructions": "Bitte beurteilen Sie folgende Frage.",
+			"note": "",
+			"statement": "Wie unsicher, entmutigt, irritiert, gestresst und verärgert (versus sicher, bestätigt, zufrieden, entspannt und zufrieden mit sich selbst) fühlten Sie sich während der Aufgabe?",
+			"reverse": "false"
+		}
+	]
+}

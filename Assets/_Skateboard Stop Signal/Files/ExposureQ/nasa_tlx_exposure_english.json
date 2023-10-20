@@ -1,0 +1,78 @@
+{
+	"title": "NASA TLX",
+	"instructions": "",
+	"code": "nasa_tlx",
+	"type": "likert",
+	"typeValue": 21,
+	"likertLabels0": [
+			"Very\nlow",
+			"Very\nhigh"
+		],
+	"likertLabels1": 
+		[
+			"Perfect",
+			"Failure"
+		],
+	"questions": [
+		{
+			"id": "mental",
+			"segment": "mental_demand",
+			"questionType": "likert_21",
+			"label_id": "0",
+			"instructions": "Please assess the following question.",
+			"note": "Note: Here the \"task\" refers to the task of delivering the pizzas.",
+			"statement": "How much mental and perceptual activity was required - thinking, deciding, calculating, searching? Was the task easy or demanding, simple or complex, exacting or forgiving?",
+			"reverse": "false"
+		},
+		{
+			"id": "physical",
+			"segment": "physical_demand",
+			"questionType": "likert_21",
+			"label_id": "0",
+			"instructions": "Please assess the following question.",
+			"note": "Note: Here the \"task\" refers to the task of delivering the pizzas.",
+			"statement": "How much physical activity was required - pushing, pulling, turning? Was the task easy or demanding, slow or brisk, restful or laborious?",
+			"reverse": "false"
+		},
+		{
+			"id": "temporal",
+			"segment": "temporal_demand",
+			"questionType": "likert_21",
+			"label_id": "0",
+			"instructions": "Please assess the following question.",
+			"note": "Note: Here the \"task\" refers to the task of delivering the pizzas.",
+			"statement": "How much time pressure did you feel? Was the pace slow and leisurely or rapid and frantic?",
+			"reverse": "false"
+		},
+		{
+			"id": "performance",
+			"segment": "performance",
+			"questionType": "likert_21",
+			"label_id": "1",
+			"instructions": "Please assess the following question.",
+			"note": "",
+			"statement": "How successful did you feel in accomplishing the goals of the task? How satisfied were you with your performance?",
+			"reverse": "true"
+		},
+		{
+			"id": "effort",
+			"segment": "effort",
+			"questionType": "likert_21",
+			"label_id": "0",
+			"instructions": "Please assess the following question.",
+			"note": "",
+			"statement": "How hard did you work mentally and physically to accomplish your level or performance?",
+			"reverse": "false"
+		},
+		{
+			"id": "frustration",
+			"segment": "frustration",
+			"questionType": "likert_21",
+			"label_id": "0",
+			"instructions": "Please assess the following question.",
+			"note": "",
+			"statement": "How discouraged, stressed, irritated, and annoyed versus gratified, content, and relaxed did you feel during the task?",
+			"reverse": "false"
+		}
+	]
+}

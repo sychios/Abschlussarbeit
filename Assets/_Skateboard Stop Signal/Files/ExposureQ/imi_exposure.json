@@ -1,0 +1,217 @@
+{
+	"title": "Intrinsic Motivation Inventory",
+	"instructions": "For each of the following statements, please indicate how true it is for you.",
+	"code": "imi",
+	"type": "likert",
+	"typeValue": 7,
+	"likertLabels0": [
+		"Not at all\ntrue",
+		"",
+		"",
+		"Somewhat\ntrue",
+		"",
+		"",
+		"Very\ntrue"
+	],
+	"likertLabels1": [
+		"Not at all\ntrue",
+		"",
+		"",
+		"Somewhat\ntrue",
+		"",
+		"",
+		"Very\ntrue"
+	],
+	"questions": [
+		{
+			"id": "enj",
+			"segment": "int_enj",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"note": "Note: Here \"task\" refers to the task of delivering the pizza.",
+			"statement": "I enjoyed doing this activity very much.",
+			"reverse": "false"
+		},
+		{
+			"id": "enj",
+			"segment": "int_enj",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"note": "Note: Here \"activity\" refers to the task of delivering the pizza.",
+			"statement": "This activity was fun to do.",
+			"reverse": "false"
+		},
+		{
+			"id": "enj",
+			"segment": "int_enj",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"note": "Note: Here \"activity\" refers to the task of delivering the pizza.",
+			"statement": "I thought this activity was boring.",
+			"reverse": "true"
+		},
+		{
+			"id": "enj",
+			"segment": "int_enj",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"note": "Note: Here \"activity\" refers to the task of delivering the pizza.",
+			"statement": "This activity did not hold my attention at all.",
+			"reverse": "true"
+		},
+		{
+			"id": "enj",
+			"segment": "int_enj",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"note": "Note: Here \"activity\" refers to the task of delivering the pizza.",
+			"statement": "I would describe this activity as very interesting.",
+			"reverse": "false"
+		},
+		{
+			"id": "enj",
+			"segment": "int_enj",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"note": "Note: Here \"activity\" refers to the task of delivering the pizza.",
+			"statement": "I thought this activity was quite enjoyable.",
+			"reverse": "false"
+		},
+		{
+			"id": "enj",
+			"segment": "int_enj",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"note": "Note: Here \"activity\" refers to the task of delivering the pizza.",
+			"statement": "While I was doing this activity, I was thinking about how much I enjoyed it.",
+			"reverse": "false"
+		},
+		{
+			"id": "tens",
+			"segment": "pres_tens",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"statement": "I did not feel nervous at all while doing this.",
+			"note": "Note: Here \"this\" refers to the task of delivering the pizza..",
+			"reverse": "true"
+		},
+		{
+			"id": "tens",
+			"segment": "pres_tens",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"statement": "I felt very tense while doing this activity.",
+			"note": "Note: Here \"activity\" refers to the task of delivering the pizza.",
+			"reverse": "false"
+		},
+		{
+			"id": "tens",
+			"segment": "pres_tens",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"statement": "I was very relaxed in doing these.",
+			"note": "Note: Here \"these\" refers to the task of delivering the pizza.",
+			"reverse": "true"
+		},
+		{
+			"id": "tens",
+			"segment": "pres_tens",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"statement": "I was anxious while working on this task.",
+			"note": "Note: Here \"task\" refers to the task of delivering the pizza.",
+			"reverse": "false"
+		},
+		{
+			"id": "tens",
+			"segment": "pres_tens",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"statement": "I felt very pressured while doing these.",
+			"note": "Note: Here \"these\" refers to the task of delivering the pizza.",
+			"reverse": "false"
+		},
+		{
+			"id": "rel",
+			"segment": "relatedness",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"statement": "I felt very distant to this person.",
+			"note": "Note: Here \"person\" refers to the virtual observer who was present.",
+			"reverse": "true"
+		},
+		{
+			"id": "rel",
+			"segment": "relatedness",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"statement": "I really doubt that this person and I would ever be friends.",
+			"note": "Note: Here \"person\" refers to the virtual observer who was present.",
+			"reverse": "true"
+		},
+		{
+			"id": "rel",
+			"segment": "relatedness",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"statement": "I feel like I could really trust this person.",
+			"note": "Note: Here \"person\" refers to the virtual observer who was present.",
+			"reverse": "false"
+		},
+		{
+			"id": "rel",
+			"segment": "relatedness",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"statement": "I'd really prefer not to interact with this person in the future.",
+			"note": "Note: Here \"person\" refers to the virtual observer who was present.",
+			"reverse": "false"
+		},
+		{
+			"id": "rel",
+			"segment": "relatedness",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"statement": "I don't feel like I could really trust this person.",
+			"note": "Note: Here \"person\" refers to the virtual observer who was present.",
+			"reverse": "true"
+		},
+		{
+			"id": "rel",
+			"segment": "relatedness",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"statement": "It is likely that this person and I could become friends if we interacted a lot.",
+			"note": "Note: Here \"person\" refers to the virtual observer who was present.",
+			"reverse": "false"
+		},
+		{
+			"id": "rel",
+			"segment": "relatedness",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please indicate how true this statement is for you.",
+			"statement": "I feel close to this person.",
+			"note": "Note: Here \"person\" refers to the virtual observer who was present.",
+			"reverse": "false"
+		}
+	]
+}

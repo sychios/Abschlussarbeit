@@ -1,0 +1,36 @@
+{
+	"title": "Presence",
+	"instructions": "Reflect on your immersive presence feeling.",
+	"code": "presence",
+	"type": "likert",
+	"typeValue": 7,
+	"likertLabels0": [
+		"Extremely\nsmall",
+		"Very\nsmall",
+		"Small",
+		"Moderate",
+		"Large",
+		"Very\nlarge",
+		"Extremely\nlarge"
+	],
+	"likertLabels1": [
+		"Extremely\nsmall",
+		"Very\nsmall",
+		"Small",
+		"Moderate",
+		"Large",
+		"Very\nlarge",
+		"Extremely\nlarge"
+	],
+	"questions": [
+		{
+			"id": "presence",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please answer the following question.",
+			"note": "",
+			"statement": "To which extent do you feel present in the virtual environment, as if you were really there?",
+			"reverse": "false"
+		}
+	]
+}

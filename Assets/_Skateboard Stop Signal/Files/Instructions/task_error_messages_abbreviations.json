@@ -1,0 +1,24 @@
+{
+	"Deutsch": [
+		"Guter Go-Task.",
+		"Guter No-Go-Task.",
+		"Richtig dann falsch.",
+		"Nicht gedrückt.",
+		"Zu früh gedrückt.",
+		"Zu spät gedrückt.",
+		"Mehrmals gedrückt.",		
+		"Falsche Richtung gedrückt.",
+		"Beim Ton gedrückt."
+	],
+	"English": [
+		"Guter Go-Task.",
+		"Guter No-Go-Task.",
+		"Richtig dann falsch.",
+		"Nicht gedrückt.",
+		"Zu früh gedrückt.",
+		"Zu spät gedrückt.",
+		"Mehrmals gedrückt.",
+		"Falsche Richtung gedrückt.",
+		"Beim Ton gedrückt."
+	]
+}

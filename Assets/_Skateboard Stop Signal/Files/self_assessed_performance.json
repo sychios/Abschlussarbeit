@@ -1,0 +1,36 @@
+{
+	"title": "Self assessed performance",
+	"instructions": "",
+	"code": "perceived_performance",
+	"type": "likert",
+	"typeValue": 7,
+	"likertLabels0": [
+		"Extremely\nbad",
+		"Very\nbad",
+		"Bad",
+		"Moderate",
+		"Good",
+		"Very\ngood",
+		"Extremely\ngood"
+	],
+	"likertLabels1": [
+		"Extremely\nbad",
+		"Very\nbad",
+		"Bad",
+		"Moderate",
+		"Good",
+		"Very\ngood",
+		"Extremely\ngood"
+	],
+	"questions": [
+		{
+			"id": "performance",
+			"questiontype": "likert_7",
+			"label_id": "0",
+			"instructions": "Please assess the following question.",
+			"note": "",
+			"statement": "How well do you rate your performance of the navigation task?",
+			"reverse": "false"
+		}
+	]
+}

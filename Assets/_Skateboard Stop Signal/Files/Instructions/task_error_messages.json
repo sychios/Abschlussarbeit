@@ -1,0 +1,24 @@
+{
+	"Deutsch": [
+		"Richtig!",
+		"Richtig, beim Ton nicht drücken.",
+		"Leider doch falsch.",
+		"Nicht gedrückt!",
+		"Zu früh gedrückt!",
+		"Zu spät!",
+		"Nicht mehrmals drücken!",		
+		"Falsche Richtung!",
+		"Beim Ton nicht drücken!"
+	],
+	"English": [
+		"Correct!",
+		"Correct, don't press when the sound is played.",
+		"Unfortunately wrong.",
+		"You didn't press!",
+		"Too early!",
+		"Too late!",
+		"Don't press multiple times!",		
+		"Wrong direction!",
+		"Don't press when the sound is played!"
+	]
+}
